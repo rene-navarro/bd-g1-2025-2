@@ -6,3 +6,4 @@ Repositorios del grupo 01 de Bases de Datos I
 |29383       |Navarro    |René  |https://github.com/rene-navarro/bd-g1-2025-2.git|
 |224204409   |Félix      |Alehtse |https://github.com/AaMmFfEe/Base-de-Datos-I|
 |224206568   |Moreno     |Hector|https://github.com/IsHectron/Proyectos-Base-de-datos|
+|224205962   |López      |Andrea|https://github.com/Andyy10/Base-de-Datos-I.git|
